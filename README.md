@@ -25,7 +25,7 @@ objective 1, objective 2
 -  challenge 2
 
 *Data sources (which data was used for the technological solution)*
--  *a)*
+-  
 
 *Description and justifictaion of used AI technology*
 -  *a)*
