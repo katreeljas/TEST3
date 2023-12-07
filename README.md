@@ -1,13 +1,13 @@
 *This is a template repository for this organization. Start by replacing the placeholder for the project name with it's actual title.*
 
-# [Demonstration Project title]
+# TEST3 Company TEST3
 
-## Summary
+## TEST3 Summary
 
-| Company name | [Company](https://website.link) |
+| Company name | Company TEST3 (https://website.link) |
 | :--- | :--- |
-| Development Team Lead Name | [First name, Surname](https://profile.link) |
-| Development Team Lead e-mail | [Team Member 1](https://profile.link) |
+| Development Team Lead Name | [Mina, Olen](https://profile.link) |
+| Development Team Lead e-mail | [mina.olen@kusagil.ee(https://profile.link) |
 | Objectives of the Demonstration Project |  |
 
 # Each project has an alternative:
@@ -17,11 +17,12 @@
 - *c) a custom agreement with the AIRE team*
 
 ## Objectives of the Demonstration Project
-*Please provide your objectives here.*
+objective 1, objective 2
 
 ## Activities and results of demonstration project
 *Challenge addressed (i.e. whether and how the initial challenge was changed during the project, for which investment the demonstration project was provided)*
--  *a)*
+-  challenge 1
+-  challenge 2
 
 *Data sources (which data was used for the technological solution)*
 -  *a)*
